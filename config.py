@@ -1,5 +1,5 @@
 # config.py
-
+from flask import Flask
 import pathlib
 import connexion
 from flask_sqlalchemy import SQLAlchemy
