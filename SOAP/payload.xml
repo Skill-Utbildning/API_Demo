@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:crud="http://example.com/crud">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <crud:Create>
+         <data>Your data here</data>
+      </crud:Create>
+   </soapenv:Body>
+</soapenv:Envelope>

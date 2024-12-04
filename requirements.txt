@@ -1,2 +1,4 @@
 flask==2.2.2
 connexion[swagger_ui]==2.14.1
+zeep
+spyne
